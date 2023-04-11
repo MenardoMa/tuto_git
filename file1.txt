@@ -1,0 +1,3 @@
+je suis une chaine de caractere
+test
+demo sur demo
